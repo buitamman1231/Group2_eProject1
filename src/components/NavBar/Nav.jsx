@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className={`nav-elements  ${showNavbar && 'active'}`}>
           <ul>
             <li>
-              <NavLink to="/">Home</NavLink>
+              <NavLink to="//">Home</NavLink>
             </li>
             <li>
 <Dropdown>
@@ -33,9 +33,9 @@ const Navbar = () => {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        <Dropdown.Item href="./frontend">FrontEnd</Dropdown.Item>              <Dropdown.Divider />
-        <Dropdown.Item href="./backend">BackEnd</Dropdown.Item>              <Dropdown.Divider />
-        <Dropdown.Item href="./fullstack">FullStack</Dropdown.Item>
+        <Dropdown.Item href="#/frontend">FrontEnd</Dropdown.Item>              <Dropdown.Divider />
+        <Dropdown.Item href="#/backend">BackEnd</Dropdown.Item>              <Dropdown.Divider />
+        <Dropdown.Item href="#/fullstack">FullStack</Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
             </li>
