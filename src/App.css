@@ -85,7 +85,7 @@ min-height: 10px;
   color:#6060e4!important;
 }
 
-.front-end:link {color:black;text-decoration:none;}
+.front-end:link {color:#6060e4;text-decoration:none;}
 .front-end:visited {color:#6060e4;text-decoration:none;}
 .front-end:hover {font-size: 45px;width: 100px;transition: 0.2s;}
 
@@ -107,7 +107,7 @@ div .pic-1{
   width: 200px;
   color:rgb(255, 126, 34)!important;
 }
-.back-end:link {color:black;text-decoration:none;}
+.back-end:link {color:rgb(255, 126, 34);;text-decoration:none;}
 .back-end:visited {color:rgb(255, 126, 34);text-decoration:none;}
 .back-end:hover {font-size: 45px;width: 400px;transition: 0.2s;}
 
@@ -130,7 +130,7 @@ div .pic-2{
   text-decoration: none;
   color:rgb(69, 158, 185)!important;
 }
-.full-stack:link {color:black;text-decoration:none;}
+.full-stack:link {color:rgb(69, 158, 185);text-decoration:none;}
 .full-stack:visited {color:rgb(69, 158, 185);text-decoration:none;}
 .full-stack:hover {font-size: 45px;width: 400px;transition: 0.2s;}
 

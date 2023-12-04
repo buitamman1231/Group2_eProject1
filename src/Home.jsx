@@ -23,7 +23,7 @@ function Home() {
                 </Row>
             </Container>
 
-            <h1><a href="./frontend" className="front-end">Front-End</a></h1>
+            <h1><a href="./#/frontend" className="front-end">Front-End</a></h1>
 
             <Row>
                 <Col>
@@ -41,7 +41,7 @@ function Home() {
                 </Col>
             </Row>
 
-            <Row><Col md={{ span: 4, offset: 9 }}><h1><a href="./backend" className="back-end">Back-End</a></h1></Col></Row>
+            <Row><Col md={{ span: 4, offset: 9 }}><h1><a href="./#/backend" className="back-end">Back-End</a></h1></Col></Row>
 
             <Row>
                 <Col md={{ span: 3, offset: 3 }}>
@@ -60,7 +60,7 @@ function Home() {
                 </Col>
             </Row>
 
-            <h1><a href="./fullstack" className="full-stack">Full-Stack</a></h1>
+            <h1><a href="./#/fullstack" className="full-stack">Full-Stack</a></h1>
 
 
 
