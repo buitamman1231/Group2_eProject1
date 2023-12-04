@@ -27,22 +27,22 @@ function Footer() {
               <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
                 <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
                 <p>
-                  <a href='reactjs' className='text-reset'>
+                  <a href='./#/reactjs' className='text-reset'>
                     ReactJS
                   </a>
                 </p>
                 <p>
-                  <a href='html' className='text-reset'>
+                  <a href='./#/html' className='text-reset'>
                     HTML
                   </a>
                 </p>
                 <p>
-                  <a href='sass' className='text-reset'>
+                  <a href='./#/sass' className='text-reset'>
                     Sass
                   </a>
                 </p>
                 <p>
-                  <a href='javascript' className='text-reset'>
+                  <a href='./#/javascript' className='text-reset'>
                     JavaScript
                   </a>
                 </p>
