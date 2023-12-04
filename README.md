@@ -1,1 +1,1 @@
-Link view web: 
+Link view web: https://buitamman1231.github.io/Group2_eProject1/

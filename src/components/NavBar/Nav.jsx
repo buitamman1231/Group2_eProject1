@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <div className="logo">
-        <NavLink to="/"><img src="/image/LogoEC2.png" alt="" className='logo' /></NavLink>
+        <NavLink to="./"><img src="./image/LogoEC2.png" alt="" className='logo' /></NavLink>
         </div>
         <div className="menu-icon" onClick={handleShowNavbar}>
         <FontAwesomeIcon icon={faBars} />
@@ -40,13 +40,13 @@ const Navbar = () => {
     </Dropdown>
             </li>
             <li>
-              <NavLink to="/contactus">Contact</NavLink>
+              <NavLink to="./contactus">Contact</NavLink>
             </li>
             <li>
-              <NavLink to="/aboutus">About</NavLink>
+              <NavLink to="./aboutus">About</NavLink>
             </li>
             <li>
-              <NavLink to="/register">Register</NavLink>
+              <NavLink to="./register">Register</NavLink>
             </li>
           </ul>
         </div>

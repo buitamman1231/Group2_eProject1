@@ -33,23 +33,23 @@ function App() {
       <NavBar />
       
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/User"  element={<UserList/>} />
-        <Route path="/User/:id"  element={<UserDetail />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/contactus" element={<ContactUs />} />
-        <Route path="/aboutus" element={<AboutUs />} />
-        <Route path="/frontend" element={<FE />} />
-        <Route path="/backend" element={<BE />} />
-        <Route path="/fullstack" element={<FT />} />  
-        <Route path="/html" element={<Html />} />  
-        <Route path="/javascript" element={<Javascript />} />  
-        <Route path="/reactjs" element={<ReactJS />} />  
-        <Route path="/nodejs" element={<NodeJS />} />  
-        <Route path="/php" element={<Php />} />
-        <Route path="/python" element={<Python />} />
-        <Route path="/sass" element={<Sass />} />
+        <Route path="./" element={<Home />} />
+        <Route path="./User"  element={<UserList/>} />
+        <Route path="./User/:id"  element={<UserDetail />} />
+        <Route path="./register" element={<Register />} />
+        <Route path="./login" element={<Login />} />
+        <Route path="./contactus" element={<ContactUs />} />
+        <Route path="./aboutus" element={<AboutUs />} />
+        <Route path="./frontend" element={<FE />} />
+        <Route path="./backend" element={<BE />} />
+        <Route path="./fullstack" element={<FT />} />  
+        <Route path="./html" element={<Html />} />  
+        <Route path="./javascript" element={<Javascript />} />  
+        <Route path="./reactjs" element={<ReactJS />} />  
+        <Route path="./nodejs" element={<NodeJS />} />  
+        <Route path="./php" element={<Php />} />
+        <Route path="./python" element={<Python />} />
+        <Route path="./sass" element={<Sass />} />
         {/* <Route path="/login" element={<Login />} />  
         <Route path="/register" element={<Register />} />   */}
         <Route path="*" element={<NotFound />} />
