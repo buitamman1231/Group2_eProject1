@@ -17,7 +17,6 @@ function Footer() {
                   Code For Work
                 </h6>
                 <section id="contact">
-        <p>Address: 590 CMT8</p>
 
         <p>Email: <a href="mailto:info@excellentcoaching.com">info@excellentcoaching.com</a></p>
     </section>
@@ -67,6 +66,7 @@ function Footer() {
 
               <MDBCol md="4" lg="3" xl="3" className='mx-auto mb-md-0 mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Address:</h6>
+              <p>590 Cach Mang Thang 8 Street, Ward 11, District 3, Ho Chi Minh City 700000</p>
               <ModalMap/>
               </MDBCol>
             </MDBRow>

@@ -35,7 +35,7 @@ function ContactUs() {
                                 <h4>
                                     <MdAlternateEmail />Let's talk: Email: <a href=".mailto:info@excellentcoaching.com">info@excellentcoaching.com</a> <br /> </h4>
                                     <h5><CiPhone />: 0931313329 <br /></h5>
-                                    <MdOutlineLocationOn />: 590 Đ. Cách Mạng Tháng 8, Phường 11, Quận 3, Thành phố Hồ Chí Minh 700000 <br />
+                                    <MdOutlineLocationOn />: 590 Cach Mang Thang 8 Street, Ward 11, District 3, Ho Chi Minh City 700000 <br />
                                
                             </div>
                         </div>
