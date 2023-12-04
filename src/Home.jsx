@@ -66,7 +66,7 @@ function Home() {
 
             <Row>
                 <Col>
-                    <img src="/image/fullstack.jpg" alt="" style={{ width: "80%" }} className="pic-3" />
+                    <img src="./image/fullstack.jpg" alt="" style={{ width: "80%" }} className="pic-3" />
                 </Col>
                 <Col>
                     <div className="text-3">

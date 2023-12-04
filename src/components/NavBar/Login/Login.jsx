@@ -71,19 +71,13 @@ const Login = () => {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             // Send your data in the request body as JSON
-            body: JSON.stringify(User)
+            body: JSON.stringify(getUsers)
         }).then(res => {
             if (res.ok) {
-                
-                // alert(JSON.stringify(User));
-                if (JSON.stringify===JSON.stringify(getUsers)) {
-                    alert(JSON.stringify)
-                }
-                else{
-                    alert(JSON.stringify(getUsers))
-                }
+                alert("Login successfully");
+                alert("Please wait for a response via email");
             }
-        })
+        }).then(() => navigate(`/`));
     }
     // .then(() => navigate(`/User`));
 
@@ -121,6 +115,9 @@ const Login = () => {
                 className='register-i' /> */}
             <button type="submit" onClick={UserCheck} className='regis-but'>Submit</button>
             {error && <p className='register-p'>{error}</p>}
+            <p>
+                <a href="./register">Click here</a> to register.
+            </p>
         </form>
 
     );

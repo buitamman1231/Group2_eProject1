@@ -34,7 +34,7 @@ function FT() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img  src="image/Screenshot 2023-11-24 104325.png" alt="" />
+                    <img  src=".image/Screenshot 2023-11-24 104325.png" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Full Stack developer in 6 month! <br />
@@ -42,18 +42,18 @@ function FT() {
                         <FontAwesomeIcon className="icon" icon={faBell} /> Have notification when start <br />
                         <FontAwesomeIcon className="icon" icon={faMoneyBills} />   Starting off with 2000$
                     </div>
-                    <div className="but"><button className='up-but'><a href="/register" className='register-navbar'>Register</a></button></div>
+                    <div className="but"><button className='up-but'><a href="./register" className='register-navbar'>Register</a></button></div>
                 </div>
             </div>
             <div className='course'>
                 <h2>This course will be break into 7 small Course</h2>
-                <div className='sc'><a href="/html"><img src="image/Screenshot 2023-11-24 094641.png" alt="" className='img' /></a></div>
-                <div className='sc'><a href="/javascript"><img src="image/Screenshot 2023-11-24 094719.png" alt="" className='img' /></a></div>
-                <div className='sc'><a href="/reactjs"><img src="image/Screenshot 2023-11-24 094752.png" alt="" className='img' /></a></div>
-                <div className='sc'><a href="/nodejs"><img src="image/Screenshot 2023-11-24 094801.png" alt="" className='img' /></a></div>
-                <div className='sc'><a href="/php"><img src="image/Screenshot 2023-11-24 094839.png" alt="" className='img' /></a></div>
-                <div className='sc'><a href="/python"><img src="image/python.jpg" alt="" className='img'/></a></div>
-                <div className='sc'><a href="/sass"><img src="image/sass.jpg" alt="" className='img'/></a></div>
+                <div className='sc'><a href="./html"><img src=".image/Screenshot 2023-11-24 094641.png" alt="" className='img' /></a></div>
+                <div className='sc'><a href="./javascript"><img src=".image/Screenshot 2023-11-24 094719.png" alt="" className='img' /></a></div>
+                <div className='sc'><a href="./reactjs"><img src=".image/Screenshot 2023-11-24 094752.png" alt="" className='img' /></a></div>
+                <div className='sc'><a href="./nodejs"><img src=".image/Screenshot 2023-11-24 094801.png" alt="" className='img' /></a></div>
+                <div className='sc'><a href="./php"><img src=".image/Screenshot 2023-11-24 094839.png" alt="" className='img' /></a></div>
+                <div className='sc'><a href="./python"><img src=".image/python.jpg" alt="" className='img'/></a></div>
+                <div className='sc'><a href="./sass"><img src=".image/sass.jpg" alt="" className='img'/></a></div>
             </div>
         </div>
     );
