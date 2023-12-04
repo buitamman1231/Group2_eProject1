@@ -35,7 +35,7 @@ function BE() {
                 <img src="./image/backend-developer-dizibrand.png" alt="" />
                 <div className='text'>
                  <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
-                 <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Full Stack developer in 6 month! <br />
+                 <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a BackEnd developer in 6 month! <br />
                  <FontAwesomeIcon className="icon" icon={faAward} />   Have certificate when finish <br />
                  <FontAwesomeIcon className="icon" icon={faBell} /> Have notification when start <br />
                  <FontAwesomeIcon className="icon" icon={faMoneyBills} />   Starting off with 1200$
