@@ -33,7 +33,7 @@ function Php() {
         <Col sm={4}>
             <div className="modal-1">
             <img src="./image/Screenshot 2023-11-24 094839.png" alt="" style={{width:"100%"}}/>
-                <div ><button className="button-28"><a href="./register" className='register-navbar'>Register</a></button></div>
+                <div ><button className="button-28"><a href="./#/register" className='register-navbar'>Register</a></button></div>
             </div>        </Col>
       </Row>
     </Container>
