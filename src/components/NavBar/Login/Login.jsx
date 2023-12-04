@@ -116,7 +116,7 @@ const Login = () => {
             <button type="submit" onClick={UserCheck} className='regis-but'>Submit</button>
             {error && <p className='register-p'>{error}</p>}
             <p>
-                <a href="./register">Click here</a> to register.
+                <a href="./#/register">Click here</a> to register.
             </p>
         </form>
 

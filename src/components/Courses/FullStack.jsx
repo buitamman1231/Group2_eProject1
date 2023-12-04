@@ -34,7 +34,7 @@ function FT() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img  src=".image/Screenshot 2023-11-24 104325.png" alt="" />
+                    <img  src="./image/Screenshot 2023-11-24 104325.png" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Full Stack developer in 6 month! <br />
@@ -42,7 +42,7 @@ function FT() {
                         <FontAwesomeIcon className="icon" icon={faBell} /> Have notification when start <br />
                         <FontAwesomeIcon className="icon" icon={faMoneyBills} />   Starting off with 2000$
                     </div>
-                    <div className="but"><button className='up-but'><a href="./register" className='register-navbar'>Register</a></button></div>
+                    <div className="but"><button className='up-but'><a href="./#/register" className='register-navbar'>Register</a></button></div>
                 </div>
             </div>
             <div className='course'>

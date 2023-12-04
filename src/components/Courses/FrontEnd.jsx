@@ -34,7 +34,7 @@ function FE() {
                     </ul>
                 </div>
                 <div className="right">
-                    <img src=".image/frondend.jpg" alt="" />
+                    <img src="./image/frondend.jpg" alt="" />
                     <div className='text'>
                         <FontAwesomeIcon className="icon" icon={faCheck} /> New course updated for 2023 <br />
                         <FontAwesomeIcon className="icon" icon={faStopwatch} />   Be a Front End developer in 3 month! <br />
@@ -42,7 +42,7 @@ function FE() {
                         <FontAwesomeIcon className="icon" icon={faBell} /> Have notification when start <br />
                         <FontAwesomeIcon className="icon" icon={faMoneyBills} />   Starting off with 800$
                     </div>
-                    <div className="but"><button className='up-but'><a href="./register" className='register-navbar'>Register</a></button></div>
+                    <div className="but"><button className='up-but'><a href="./#/register" className='register-navbar'>Register</a></button></div>
                 </div>
             </div>
             <div className='course'>
