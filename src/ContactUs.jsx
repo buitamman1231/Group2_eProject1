@@ -33,7 +33,7 @@ function ContactUs() {
                             <h1>You Want To Talk?</h1>
                             <div>
                                 <h4>
-                                    <MdAlternateEmail />Let's talk: Email: <a href=".mailto:info@excellentcoaching.com">info@excellentcoaching.com</a> <br /> </h4>
+                                    <MdAlternateEmail />Let's talk: Email: <a href="mailto:info@excellentcoaching.com">info@excellentcoaching.com</a> <br /> </h4>
                                     <h5><CiPhone />: 0931313329 <br /></h5>
                                     <MdOutlineLocationOn />: 590 Cach Mang Thang 8 Street, Ward 11, District 3, Ho Chi Minh City 700000 <br />
                                
