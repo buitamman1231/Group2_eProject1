@@ -69,7 +69,7 @@ const Register = () => {
                 alert("Register successfully");
                 alert("Please wait for a response via email");
             }
-        }).then(() => navigate(`/`));
+        }).then(() => navigate(`./`));
     }
 
     return (

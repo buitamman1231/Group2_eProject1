@@ -77,7 +77,7 @@ const Login = () => {
                 alert("Login successfully");
                 alert("Please wait for a response via email");
             }
-        }).then(() => navigate(`/`));
+        }).then(() => navigate(`./`));
     }
     // .then(() => navigate(`/User`));
 
